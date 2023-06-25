@@ -1,0 +1,13 @@
+body {
+    background-color: #ff0000;
+background-image: url('https://www.meme-arsenal.com/memes/66f6a08c0f092ec4326d965f197c9c2d.jpg');
+background-position: center top;
+background-size: cover;
+background-repeat: no-repeat;
+}
+h2{
+    color: rgb(255, 255, 255);
+    position: fixed;
+    
+    
+}
